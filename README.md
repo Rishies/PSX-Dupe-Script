@@ -2,3 +2,4 @@
 2. execute the script
 3. select pet
 4. dupe
+```loadstring(game:HttpGet("https://raw.githubusercontent.com/Rishies/PSX-Dupe-Script/main/Script"))()```
